@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007301912144",
+    "firebase_url": "https://mungo-1c61e.firebaseio.com",
+    "project_id": "mungo-1c61e",
+    "storage_bucket": "mungo-1c61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007301912144:android:88ef2f73375885fc315355",
+        "android_client_info": {
+          "package_name": "com.viewdex.mungo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007301912144-mem96u5nr3u2f2742bp2smfvail0jaeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAPDW5JwyWAd5zKy5qO0jnIIKLtY-4898"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007301912144-mem96u5nr3u2f2742bp2smfvail0jaeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
